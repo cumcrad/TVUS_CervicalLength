@@ -9,7 +9,7 @@ import os
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
-from feature_extraction_TVUS.NPJ_CL_only_Jan2025.extractor import Extractor_Obj
+from extractor import Extractor_Obj
 import executable_constants
 import sys
 

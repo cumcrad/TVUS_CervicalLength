@@ -7,7 +7,7 @@ Original work began May 2022
 #Import pre-built python packages:
 import numpy as np
 import matplotlib.pyplot as plt
-from feature_extraction_TVUS.NPJ_CL_only_Jan2025.image_utils import Img_Obj
+from image_utils import Img_Obj
 from scipy.optimize import curve_fit
 import cv2 as cv
 from PIL import Image
